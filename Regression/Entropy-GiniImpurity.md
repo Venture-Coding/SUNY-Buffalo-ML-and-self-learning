@@ -38,5 +38,9 @@ The internal working of Gini impurity is also somewhat similar to the working of
 
 <img width="513" alt="Screenshot 2021-11-08 at 8 54 27 PM" src="https://user-images.githubusercontent.com/61674750/140769334-5b2af047-1042-4506-968a-f0014467dda5.png">
 
+Graphic example using Gini.
+
+<img width="679" alt="Screenshot 2021-11-08 at 9 08 38 PM" src="https://user-images.githubusercontent.com/61674750/140771745-f70796a9-4bb0-4979-97fa-7a016d669929.png">
+
 
 The only reason GINI is often considered better is for being computationally more efficient compared to Entropy method. 
