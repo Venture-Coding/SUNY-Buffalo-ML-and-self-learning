@@ -6,7 +6,8 @@ Entropy calculation and Gini Impurity calculation are two of the leading methods
 
 ### Entropy ###
 
-Formula: (\n)
+Formula:
+
       *H(Y) = - ∑ (p(yj) * log2(p(yj)))
 
 Here ‘p(yj)’ is simply the frequentist probability of an element/class ‘j’ in our output(y) data.
@@ -16,12 +17,15 @@ Here ‘p(yj)’ is simply the frequentist probability of an element/class ‘j�
 Entropy is lowest at the extremes, when the curve either contains no positive instances or only positive instances. That is, when the curve is pure the disorder is 0. Entropy is highest in the middle when the curve is evenly split between positive and negative instances. Extreme disorder , because there is no majority.
 
 Information Gain using Entropy: 
+
    *IG(S, a) = H(S) – H(S | a)
+   
 Where IG(S, a) is the information for the dataset S for the variable a for a random variable, H(S) is the entropy for the dataset before any change (described above) and H(S | a) is the conditional entropy for the dataset given the variable a.
 
 The conditional entropy can be calculated by splitting the dataset into groups for each observed value of a and calculating the sum of the ratio of examples in each group out of the entire dataset multiplied by the entropy of each group.
 
    *H(S | a) = sum v in a Sa(v)/S * H(Sa(v))
+   
 Where Sa(v)/S is the ratio of the number of examples in the dataset with variable a has the value v, and H(Sa(v)) is the entropy of group of samples where variable a has the value v.
 
 
