@@ -10,9 +10,9 @@ So, Cross Val is used to avoid cheating by looking at the test during tuning of 
 
 The various types of cross-validation are -
 
-K-fold cross-validation
-Leave one out(LOO)
-Leave P-out(LPO)
-Stratified K-Fold
+  K-fold cross-validation
+  Leave one out(LOO)
+  Leave P-out(LPO)
+  Stratified K-Fold
 
 For more information on the above methods, please go through the documentation at sklearn.
