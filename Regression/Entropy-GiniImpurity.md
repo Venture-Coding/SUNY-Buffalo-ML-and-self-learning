@@ -6,7 +6,7 @@ Entropy calculation and Gini Impurity calculation are two of the leading methods
 
 ### Entropy ###
 
-Formula:
+Formula: (\n)
       *H(Y) = - ∑ (p(yj) * log2(p(yj)))
 
 Here ‘p(yj)’ is simply the frequentist probability of an element/class ‘j’ in our output(y) data.
