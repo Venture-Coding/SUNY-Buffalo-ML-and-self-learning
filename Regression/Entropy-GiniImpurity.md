@@ -28,6 +28,9 @@ The conditional entropy can be calculated by splitting the dataset into groups f
    
 Where Sa(v)/S is the ratio of the number of examples in the dataset with variable a has the value v, and H(Sa(v)) is the entropy of group of samples where variable a has the value v.
 
+The information gain is calculated for each variable in the dataset. The variable that has the largest information gain is selected to split the dataset. Generally, a larger gain indicates a smaller entropy or less surprise.
+
+
 
 ### Gini Impurity ###
 
