@@ -34,3 +34,9 @@ The information gain is calculated for each variable in the dataset. The variabl
 
 ### Gini Impurity ###
 
+The internal working of Gini impurity is also somewhat similar to the working of entropy in the Decision Tree.
+
+<img width="513" alt="Screenshot 2021-11-08 at 8 54 27 PM" src="https://user-images.githubusercontent.com/61674750/140769334-5b2af047-1042-4506-968a-f0014467dda5.png">
+
+
+The only reason GINI is often considered better is for being computationally more efficient compared to Entropy method. 
