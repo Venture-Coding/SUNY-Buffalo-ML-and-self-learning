@@ -14,5 +14,7 @@ So, Cross Val is used to avoid cheating by looking at the test during tuning of 
     *Leave P-out(LPO)
     *Stratified K-Fold 
      
+1. jjj
+   1. uuu
 
 For more information on the above methods, please go through the documentation at sklearn.
