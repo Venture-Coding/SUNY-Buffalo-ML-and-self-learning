@@ -1,8 +1,8 @@
-## Natural Language Processing ##
+# Natural Language Processing ##
 
 This repo consists of projects taken up outside of any coursework or learning path with focus on application of learned methodologies under Natural Language Processing.  
   
-### BERT-FAQ-Bot :   
+## BERT-FAQ-Bot :   
 - Created for reducing the Turn Around Time of organisation's inbound queries from customers as well as prospects.  
 - Uses bert-base-uncased model , pretrained on the SQAD dataset, curated by Stanforfd and annotated Mechanical Turks.
 - Returns answers with reference to information provided as context.
