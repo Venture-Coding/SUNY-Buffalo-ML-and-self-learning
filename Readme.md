@@ -1,4 +1,4 @@
-### Machine Learning under Prof. Varun SUNY Buffalo and Prof Raghavan IIIT-B ###
+## Machine Learning Projects Repo ##
 
 Collection of self-made projects while learning under Varun Chandola, Prof. Machine Learning at UBuffalo, NY.
 Some projects done under guidance of lectures of Prof. Raghavan at IIT-Bangalore.
